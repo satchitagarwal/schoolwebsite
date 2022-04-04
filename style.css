@@ -1,0 +1,40 @@
+#myNavbar
+{
+width: 100%;
+position: fixed;
+z-index: 99999;
+background-color: black;
+}
+.travel_mainDiv
+{
+border: 1px solid lightgray;
+}
+.travel_mainDiv img
+{
+    width: 100%;   
+}
+.travel_mainDiv h5 ,.travel_mainDiv p
+{
+margin: 20px;
+}
+.travel_mainDiv
+{
+color: blue;
+}
+.movie_head
+{
+font-size: 20px;
+padding:6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+.movie_head i
+{
+float:right;
+
+}
+.movie_head span
+{
+color: orange;
+
+}
